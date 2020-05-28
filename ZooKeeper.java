@@ -10,5 +10,16 @@ public class ZooKeeper {
         ham.eatBanana();
         ham.climb();
         ham.displayEnergy();
+        System.out.println("______________________");
+        Bat fizzy = new Bat();
+        fizzy.displayEnergy();
+        fizzy.attackTown();
+        fizzy.attackTown();
+        fizzy.attackTown();
+        fizzy.eatHumans();
+        fizzy.eatHumans();
+        fizzy.fly();
+        fizzy.fly();
+        fizzy.displayEnergy();
     }
 }
